@@ -1,0 +1,19 @@
+ {
+    "encuestas":[
+        {
+            "id":1,
+            "name":"Censo 2020",
+            "desc":"La encuesta oficial del Censo 2020"
+        },
+        {
+            "id":2,
+            "name":"Otaku vs Gamer",
+            "desc":"Versus entre comunidades vergas"
+        },
+        {
+            "id":3,
+            "name":"Gatos y perros",
+            "desc":"Por que preferimos a los gatos sobre los sucios perros"
+        }
+    ]
+}
